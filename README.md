@@ -4,7 +4,7 @@ Wie funktionieren eigentlich Bildfilter auf Social Media (und anderswo)?
 
 ## Setup
 Dieses Repository enthält das Jupyter Notebook, welches Sie bereits aus dem Workshop kennen. 
-Um das Notebook zu starten muss lediglich Python 3.11 oder höher installiert sein.
+Um das Notebook zu starten muss lediglich Python 3.9 oder höher installiert sein.
 
 Bei der erstmaligen Verwendung muss eine neue virtuelle Umgebung für Python erstellt werden: 
 
