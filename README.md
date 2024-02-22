@@ -28,7 +28,9 @@ Windows:
 env\Scripts\activate
 ```
 
-Außerdem muss bei der Erstverwendung das Jupyter Notebook und weitere Abhängigkeiten installiert werden:
+Nach der Ausführung sollte in der Kommandozeile der Name der aktivierten virtuellen Umgebung vor dem Prompt erscheinen, hier z.B. `(env)`.  
+
+Bei Erstverwendung muss einmalig das Jupyter Notebook und weitere Abhängigkeiten installiert in der aktivierten virtuellen Umgebung installiert werden:
 
 ```Bash
 pip install -r requirements.txt
